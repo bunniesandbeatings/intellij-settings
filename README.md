@@ -15,7 +15,7 @@ Intellij Settings repository with good stuff in it.
 
 
 
-## Splits
+#### Splits
 
 | Purpose | Key | 
 |---------|-----|
@@ -25,7 +25,7 @@ Intellij Settings repository with good stuff in it.
 | Move to next tab group | `⌥` `⇥` |
 | Move to previous tab group | `⌥⇧` `⇥` |
 
-## Tabs
+#### Tabs
 | Purpose | Key | 
 |---------|-----|
 | Close other tabs | `⌘⇧` `w` |
