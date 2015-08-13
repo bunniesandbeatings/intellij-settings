@@ -5,16 +5,19 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control meta alt LEFT" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift meta alt UP" />
+  </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift meta alt RIGHT" />
   </action>
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control meta alt DOWN" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift control meta alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift control meta alt UP" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift control meta alt UP" />
+    <keyboard-shortcut first-keystroke="shift control meta alt RIGHT" />
   </action>
 </keymap>
