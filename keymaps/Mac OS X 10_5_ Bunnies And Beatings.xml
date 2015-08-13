@@ -5,6 +5,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control meta alt LEFT" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift control alt RIGHT" />
+  </action>
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control meta alt DOWN" />
   </action>
