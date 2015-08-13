@@ -18,10 +18,10 @@ Intellij Settings repository with good stuff in it.
 | Purpose | Key | 
 |---------|-----|
 | Open In New Vertical Split | `⌘⌥⌃⇧` `→` |
-| Move to New Vertical Split | `⌥⌃⇧` `→` |
+| Move to New Vertical Split | `⌘⌥⇧` `→` |
 | | | 
 | Open In New Horizontal Split | `⌘⌥⌃⇧` `↑` |
-| Move to New Horizontal Split | `⌥⌃⇧` `↑` |
+| Move to New Horizontal Split | `⌘⌥⇧` `↑` |
 | | |
 | Move to next tab group | `⌥` `⇥` |
 | Move to previous tab group | `⌥⇧` `⇥` |
