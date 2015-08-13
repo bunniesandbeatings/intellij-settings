@@ -21,7 +21,7 @@ Intellij Settings repository with good stuff in it.
 |---------|-----|
 | New Vertical Split | `⌘⌥⌃⇧` `↑` |
 | New Horizontal Split | `⌘⌥⌃⇧` `→` |
-|---------|-----|
+| | |
 | Move to next tab group | `⌥` `⇥` |
 | Move to previous tab group | `⌥⇧` `⇥` |
 
