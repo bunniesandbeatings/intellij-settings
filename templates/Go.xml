@@ -1,0 +1,13 @@
+<templateSet group="Go">
+  <template name="rfunc" value="func ($RECEIVER_NAME$ $RECEIVER_TYPE$) $NAME$($ARGUMENTS) {&#10;}" description="receiver function (without return)" toReformat="false" toShortenFQNames="true">
+    <variable name="RECEIVER_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RECEIVER_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+      <option name="GO_FILE" value="true" />
+      <option name="GO_BLOCK" value="true" />
+      <option name="GO_TYPE" value="true" />
+    </context>
+  </template>
+</templateSet>
