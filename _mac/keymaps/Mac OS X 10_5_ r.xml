@@ -1,0 +1,135 @@
+<keymap version="1" name="Mac OS X 10.5+ r" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="shift meta H" />
+    <keyboard-shortcut first-keystroke="shift meta LEFT" />
+  </action>
+  <action id=":cursive.actions.paredit/backward-down">
+    <keyboard-shortcut first-keystroke="control meta U" />
+  </action>
+  <action id=":cursive.actions.paredit/backward-up">
+    <keyboard-shortcut first-keystroke="shift meta U" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="control meta K" />
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta J" />
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+  </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline">
+    <keyboard-shortcut first-keystroke="shift control CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift control 0" />
+  </action>
+  <action id=":cursive.actions.paredit/close-square-and-newline">
+    <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="shift meta L" />
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-down">
+    <keyboard-shortcut first-keystroke="control meta I" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-up">
+    <keyboard-shortcut first-keystroke="shift meta I" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="shift control UP" />
+  </action>
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id=":cursive.actions.paredit/raise">
+    <keyboard-shortcut first-keystroke="meta QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="control meta J" />
+    <keyboard-shortcut first-keystroke="control meta DOWN" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta K" />
+    <keyboard-shortcut first-keystroke="shift meta UP" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="shift control S" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift control DOWN" />
+  </action>
+  <action id=":cursive.actions.paredit/toggle">
+    <keyboard-shortcut first-keystroke="shift meta S" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-curly">
+    <keyboard-shortcut first-keystroke="shift control OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="shift control 9" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-quotes">
+    <keyboard-shortcut first-keystroke="shift control QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="control meta alt ENTER" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="meta alt ENTER" />
+  </action>
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="control meta alt R" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift END" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift HOME" />
+  </action>
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorTab" />
+  <action id="EditorToggleCase" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="Git.Push" />
+  <action id="GotoBookmark9" />
+  <action id="GotoRelated" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="IncrementWindowWidth" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="TestData.Navigate" />
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark9" />
+  <action id="WelcomeScreen.Plugins">
+    <keyboard-shortcut first-keystroke="control meta alt P" />
+  </action>
+  <action id="hg4idea.push" />
+</keymap>
