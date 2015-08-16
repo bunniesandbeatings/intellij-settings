@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/pivotal/workspace/go/src/github.com/cloudfoundry/cli'" />
-    <option name="defaultScopeName" value="Directory '/Users/pivotal/workspace/go/src/github.com/cloudfoundry/cli'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/pivotal/workspace/go/src/github.com/cloudfoundry/cli'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
