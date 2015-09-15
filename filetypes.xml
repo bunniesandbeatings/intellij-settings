@@ -17,6 +17,7 @@
       <mapping pattern="keypairs" type="Bash" />
       <mapping pattern="deployment_utils" type="Bash" />
       <mapping pattern="add_fly_target" type="Bash" />
+      <mapping pattern="cloudformation" type="Bash" />
       <mapping pattern="aws_environment" type="PLAIN_TEXT" />
       <mapping pattern="bosh_environment" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
