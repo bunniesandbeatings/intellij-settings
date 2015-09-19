@@ -14,6 +14,7 @@
       <mapping pattern="bosh_ssh" type="Bash" />
       <mapping pattern="deploy" type="Bash" />
       <mapping pattern="jump_bosh" type="Bash" />
+      <mapping pattern="get_tunnel" type="Bash" />
       <mapping pattern="keypairs" type="Bash" />
       <mapping pattern="deployment_utils" type="Bash" />
       <mapping pattern="add_fly_target" type="Bash" />
