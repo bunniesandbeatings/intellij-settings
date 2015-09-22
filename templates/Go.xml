@@ -3,11 +3,6 @@
     <variable name="RECEIVER_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RECEIVER_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="GO" value="true" />
-      <option name="GO_FILE" value="true" />
-      <option name="GO_BLOCK" value="true" />
-      <option name="GO_TYPE" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
