@@ -22,6 +22,7 @@
       <mapping pattern="aws_environment" type="PLAIN_TEXT" />
       <mapping pattern="bosh_environment" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
