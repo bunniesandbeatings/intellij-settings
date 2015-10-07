@@ -1,28 +1,5 @@
 <application>
-  <component name="CommunityFileTypes" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
-    <extensionMap>
-      <mapping ext="gemspec" type="PLAIN_TEXT" />
-      <mapping ext="jspx" type="XML" />
-      <mapping ext="tagx" type="XML" />
-    </extensionMap>
-    <setting name="fileTypeChangedCounter" value="1" />
-  </component>
   <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
-    <extensionMap>
-      <mapping pattern="bosh_ssh" type="Bash" />
-      <mapping pattern="deploy" type="Bash" />
-      <mapping pattern="jump_bosh" type="Bash" />
-      <mapping pattern="get_tunnel" type="Bash" />
-      <mapping pattern="keypairs" type="Bash" />
-      <mapping pattern="deployment_utils" type="Bash" />
-      <mapping pattern="add_fly_target" type="Bash" />
-      <mapping pattern="cloudformation" type="Bash" />
-      <mapping pattern="aws_environment" type="PLAIN_TEXT" />
-      <mapping pattern="bosh_environment" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-    </extensionMap>
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
   </component>
 </application>
