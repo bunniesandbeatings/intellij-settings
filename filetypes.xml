@@ -15,6 +15,7 @@
       <mapping pattern="concourse" type="Bash" />
       <mapping pattern="jump_bosh" type="Bash" />
       <mapping pattern="keypairs" type="Bash" />
+      <mapping pattern="vendor" type="Bash" />
       <mapping pattern="deployment_utils" type="Bash" />
       <mapping pattern="deploy" type="Bash" />
       <mapping pattern="cloudformation" type="Bash" />
